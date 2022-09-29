@@ -6,6 +6,8 @@ Modul Datenanalyse in den Geistes- und Sozialwissenschaften
 HS (Informations-)Visualisierungen im Bereich des kulturellen Erbes
 Betreut von Katharina Hefele M.A.
 
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+
 TEMPLATE:
 Dimension by HTML5 UP
 html5up.net | @ajlkn
@@ -58,3 +60,6 @@ Digitalisiert durch die Philipps-Universität Marburg 2022. DOI: 10.17192/eb2022
 Aktuelle Karte von Marburg (aufgerufen am 13.09.22)
 map2022.jpg
 Per OpenStreetMaps (https://www.openstreetmap.org/#map=14/50.8098/8.7715), Open Data Commons Open Database Lizenz (ODbL)
+
+Nachgestellte Bilder und das der Plakette:
+© Michelle Kauß
