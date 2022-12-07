@@ -6,40 +6,10 @@ function initComparisons() {
     var x, i;
     /* Find all elements with an "overlay" class: */
     var x = document.getElementsByClassName("img-comp-overlay");
-    for (i = 0; i < x.length; i++) {
-      var w, h = 300;
-      if (i==0) { /* lutherische Pfarrkirche */
-        w = 226;
-        h = 300;
-      } else if (i==1) { /* Elisabethbrücke */
-        w = 441;
-        h = 300;
-      } else if (i==2) { /* alte Uni */ 
-        w = 226;
-        h = 300;
-      } else if (i==3) { /* Abendroth-Brücke */ 
-        w = 486;
-        h = 300;
-      } else if (i==4) { /* Weidenhäuser Brücke */ 
-        w = 471;
-        h = 300;
-      } else if (i==5) { /* E-Kirche */ 
-        w = 237;
-        h = 300;
-      } else if (i==6) { /* Rathaus */ 
-        w = 226;
-        h = 300;
-      } else if (i==7) { /* Am Plan Brunnen */ 
-        w = 226;
-        h = 300;
-      } else { /* falls was schiefläuft */ 
-        w = 300;
-        h = 300;
-      }
-      console.log(i)
+
       /* Once for each "overlay" element:
       pass the "overlay" element as a parameter when executing the compareImages function: */
-      compareImages(x[i],w,h);/* wenn zurückändern: nur x[i] */
+      compareImages(x[i]);/* wenn zurückändern: nur x[i] */
     }
 
     function compareImages(img,w,h) { /* wenn zurückändern: nur img */
