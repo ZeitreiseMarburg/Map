@@ -1,6 +1,8 @@
 Zeitreise Marburg Map
 Ein Projekt von Michelle Kauß & Toni Massenberg
 
+Link zur Website: https://zeitreisemarburg.github.io/
+
 MA Cultural Data Studies | MCDCI | Phillips-Universität Marburg
 Modul Datenanalyse in den Geistes- und Sozialwissenschaften
 HS (Informations-)Visualisierungen im Bereich des kulturellen Erbes
